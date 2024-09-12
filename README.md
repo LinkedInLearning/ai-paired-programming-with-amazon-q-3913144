@@ -4,7 +4,7 @@ This is the repository for the LinkedIn Learning course AI Paired Programming wi
 ## Installing
 1. To use these exercise files, you must have the following installed:
 	- Java 8, Java 17, Maven, IntelliJ, Amazon Q plugin
- - Python, VS Code, Amazon Q extension
+  	- Python, VS Code, Amazon Q extension
    
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
